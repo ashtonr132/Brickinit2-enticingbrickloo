@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brickinit2enticingbrickloo", "Brickinit2enticingbrickloo.csproj", "{8E2B61EC-3C9C-3928-7E09-72C330BD2B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brickinit2enticingbrickloo.Editor", "Brickinit2enticingbrickloo.Editor.csproj", "{AFAC6712-9553-6521-0C7F-BBB32265BBD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E2B61EC-3C9C-3928-7E09-72C330BD2B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2B61EC-3C9C-3928-7E09-72C330BD2B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2B61EC-3C9C-3928-7E09-72C330BD2B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2B61EC-3C9C-3928-7E09-72C330BD2B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAC6712-9553-6521-0C7F-BBB32265BBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAC6712-9553-6521-0C7F-BBB32265BBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAC6712-9553-6521-0C7F-BBB32265BBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAC6712-9553-6521-0C7F-BBB32265BBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
